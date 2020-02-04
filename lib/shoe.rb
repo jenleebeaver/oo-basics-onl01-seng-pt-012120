@@ -10,3 +10,5 @@ class Shoe
     puts "Your show is as good as new!"
   end
 end
+
+Shoe.condition = new
